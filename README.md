@@ -113,9 +113,10 @@ In clinical applications, even simpler, interpretable models must be rigorously 
 For effective clinical decision-making, it is essential that the performance of predictive models is both transparent and easily interpretable. In this task, the goal is to compare the actual fetal health outcomes with the predictions made by the advanced Random Forest model. By creating a side-by-side comparison table, stakeholders can quickly see where the model performs well and identify areas that may require further tuning. This visualization supports confidence in the model's ability to aid in early risk detection.     
       
 ## Key Outcomes
+
+After preprocessing and preparing the fetal health data, we developed three classification models using different machine learning algorithms. While all models demonstrated strong performance, the random forest classifier achieved the highest accuracy, with a score of **0.921**. Consequently, this model was selected to generate and assess predictions of fetal health outcomes.  
   
-
-
+## Conclusion
 
 
 
