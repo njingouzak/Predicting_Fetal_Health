@@ -122,6 +122,10 @@ After preprocessing and preparing the fetal health data, we developed three clas
 
 --- 
 ## Conclusion
+In obstetrics, the assessment of fetal health remains a critical yet challenging task. Traditional approaches based on Electronic Fetal Monitoring (EFM) continue to face limitations, particularly regarding their impact on neonatal outcomes and the reduction of emergency cesarean deliveries. To address these challenges, this study proposes an advanced machine learning–based approach for fetal health prediction, utilizing an ensemble of classification algorithms, including Logistic Regression, Decision Tree, and Random Forest. Among the evaluated models, the Random Forest classifier demonstrated superior performance, achieving the highest accuracy and consistently outperforming the other methods. This result highlights its effectiveness in accurately identifying and classifying varying fetal health conditions. Overall, the findings underscore the potential of machine learning techniques to enhance fetal health monitoring by providing a more objective, reliable, and comprehensive framework for assessing fetal well-being, with significant implications for prenatal care and clinical decision-making.  
 
+ ---
+ ## Acknowledgement
+ 
 
 
