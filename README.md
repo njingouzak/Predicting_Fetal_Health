@@ -47,11 +47,11 @@ This dataset comprises a comprehensive collection of physiological parameters re
 
 ---
 ## Tools
-Python  
-Pandas  
-Numpy  
-Scikit-Learn  
-Jupyter Notebook  
+- Python  
+- Pandas  
+- Numpy  
+- Scikit-Learn  
+- Jupyter Notebook  
 
 ---
 ## Approach
